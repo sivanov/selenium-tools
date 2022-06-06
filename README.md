@@ -1,5 +1,7 @@
 # selenium-tools
-Python 3 package based on Selenium 4 for easy creation and running of parallel QA tests
+Python 3 package based on Selenium 4 for easy creation and running of parallel QA tests.
+
+**Notice: This project is still in Beta version**!
 
 ### Features
 * reusable code without repeating code and hardcoded variables inside
